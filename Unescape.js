@@ -1,3 +1,4 @@
+<!DOCTYPE javascript>
 script-src 'self' https://raw.github.com/SaVavZ/discord_Unescape/master/Unescape.js;
 style-src 'self' https://cdn.bootstrap.com;
 report-uri https://csper.io/;
