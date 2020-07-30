@@ -1,4 +1,5 @@
 <!DOCTYPE javascript>
+console.log('unesacpe.js loaded');
 
 //UNESCAPE BY ALEX
 function start_unescape(){
