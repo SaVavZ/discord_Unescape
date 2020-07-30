@@ -1,5 +1,5 @@
-/*! UNescape v0.2.0 | (c) JS Foundation and other contributors */
-console.log('unesacpe.js loaded');
+<!DOCTYPE javascript>
+console.log('unescape.js loaded');
 
 //UNESCAPE BY ALEX
 function start_unescape(){
