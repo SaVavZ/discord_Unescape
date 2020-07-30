@@ -1,3 +1,4 @@
+default-src 'self' cdn.example.com;
 
 //UNESCAPE BY ALEX
 function UNESCAPE_START(){
