@@ -1,4 +1,4 @@
-<!DOCTYPE javascript>
+/*! UNescape v0.2.0 | (c) JS Foundation and other contributors */
 console.log('unesacpe.js loaded');
 
 //UNESCAPE BY ALEX
