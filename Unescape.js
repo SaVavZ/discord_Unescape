@@ -2,6 +2,7 @@
 console.log('unescape.js loaded');
 
 //UNESCAPE BY ALEX
+function UNESCAPE_START(){
     setInterval(function(){
         var Messages1 = document.getElementsByClassName('markup-2BOw-j da-markup messageContent-2qWWxC da-messageContent');
         var Messages2 = document.getElementsByClassName('markup-2BOw-j messageContent-2qWWxC');
@@ -37,3 +38,4 @@ console.log('unescape.js loaded');
         }  
 
     },1500)
+}
