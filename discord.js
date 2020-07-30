@@ -1,4 +1,3 @@
-default-src 'self' cdn.github.com;
 
 //UNESCAPE BY ALEX
 function UNESCAPE_START(){
