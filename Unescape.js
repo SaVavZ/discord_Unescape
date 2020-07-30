@@ -1,3 +1,5 @@
+<!DOCTYPE javascript>
+
 //UNESCAPE BY ALEX
 
 setInterval(function(){
