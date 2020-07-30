@@ -1,5 +1,3 @@
-<!DOCTYPE javascript>
-console.log('unescape.js loaded');
 
 //UNESCAPE BY ALEX
 function UNESCAPE_START(){
